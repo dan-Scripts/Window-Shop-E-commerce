@@ -67,3 +67,8 @@
     @apply bg-background text-foreground;
   }
 }
+.scrollable-container {
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}

@@ -1,4 +1,4 @@
-import { CheckoutForm } from "@/features/checkout/components/Checkoutform";
+import { CheckoutForm } from "@/features/checkout/components/CheckoutForm";
 import { OrderSummary } from "@/features/checkout/components/OrderSummary";
 import { useCart } from "@/features/cart/hooks/useCart";
 import { Button } from "@/common/components/ui/button";
